@@ -1,14 +1,25 @@
 body{
-    background-color: rgba(6, 0, 17, 0.798);
+    background-color: rgba(255, 255, 255, 0.798);
+    text-align: center;
 }
 
-#TL{
-    display: inline-block;      
+
+
+#logo{
+    border-radius: 5px;
+    margin: 10px auto 10px auto;
+    display: inline;
+    border: solid 3px rgb(142, 90, 177);
+    width: 50px;
+    height: 50px;
 }
 
 h1{
-    background-color: rgba(147, 104, 175, 0.857);
+    display:inline;
     text-align: center;
+    margin: 10px 10px 10px 10px;
+    width: 750px;
+    height: 65px;
     font-size: 60px;
-    font-family: sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
